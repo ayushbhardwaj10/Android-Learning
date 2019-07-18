@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">fireapp</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="button">Button</string>
+    <string name="loginbtn">loginbtn</string>
+    <string name="password">password</string>
+    <string name="enter_email2">enter email2</string>
+    <string name="login9">Login9</string>
+    <string name="phone">phone</string>
+    <string name="next">Next</string>
+    <string name="hey_ayush">hey ayush</string>
+    <string name="welcomeScreen">WelcomeScreen</string>
+    <string name="welcomeScreenPg">Welcome</string>
+    <string name="gallery">Select Image from Gallery</string>
+</resources>

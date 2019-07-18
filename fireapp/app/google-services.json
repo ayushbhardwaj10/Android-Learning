@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054769707461",
+    "firebase_url": "https://fireapp-4b713.firebaseio.com",
+    "project_id": "fireapp-4b713",
+    "storage_bucket": "fireapp-4b713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054769707461:android:2e0c57f09c47b1d8",
+        "android_client_info": {
+          "package_name": "com.learning.ayush.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054769707461-l82h2r583346e8rdg6a3nsojpd2ou3v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0Id3P9zRq5N0VU5u54Vu31LjASpzo1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054769707461-l82h2r583346e8rdg6a3nsojpd2ou3v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

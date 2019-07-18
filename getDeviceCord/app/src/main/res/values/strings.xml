@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">getDeviceCord</string>
+    <string name="find">FIND</string>
+    <string name="location">Location</string>
+</resources>
